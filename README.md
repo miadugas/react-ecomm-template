@@ -1,5 +1,5 @@
 # React-Ecomm-Template
-
+Default ecomm template for React development. 
 
 <hr>
 
