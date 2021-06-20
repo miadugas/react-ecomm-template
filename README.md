@@ -1,4 +1,4 @@
-# React-Ecomm-Black Mirror
+# React-Ecomm-Template
 
 
 <hr>
