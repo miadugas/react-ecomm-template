@@ -13,17 +13,16 @@
 
 ## Technology Used
 #### Current React Version
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+
+"react": "^17.0.1", "react-dom": "^17.0.1" "react-scripts": "4.0.0", "axios": "^0.21.1", "dotenv": "^8.2.0", "stripe": "^8.130.0",
+
 
 
 
 <hr>
 
 ### Additional Styling & Non-Technical Frameworks
+styled-components, react-icons
 .env file in the root
 FAST_REFRESH=FALSE
 
